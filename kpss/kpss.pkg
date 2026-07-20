@@ -1,0 +1,4 @@
+D 'cixr': Kwiatkowski-Phillips-Schmidt-Shin test for stationarity Use kpss With STATA 19
+D
+F kpss.ado
+F kpss.hlp

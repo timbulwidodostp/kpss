@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p kpss Kwiatkowski-Phillips-Schmidt-Shin test for stationarity Use kpss With STATA 19
