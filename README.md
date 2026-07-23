@@ -1,6 +1,8 @@
 # kpss
 Kwiatkowski-Phillips-Schmidt-Shin test for stationarity Use kpss With STATA 19
 
+https://www.youtube.com/watch?v=uRx0e7pfpEs
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
